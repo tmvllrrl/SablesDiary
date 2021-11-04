@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Sable\'s Diary</string>
+    <string name="no_entries_yet">No entries</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="food_eaten">Food Eaten</string>
+    <string name="unit_grams">g</string>
+    <string name="during_the_day">During The Day:</string>
+    <string name="water_drinken">Water Drinken</string>
+    <string name="over_night">Over Night:</string>
+    <string name="weight">Weight:</string>
+    <string name="edit_weight">Weight</string>
+    <string name="date">Date:</string>
+    <string name="date_picker">datePicker</string>
+    <string name="delete_all_entries">Delete All Entries</string>
+
+    <!-- Dialog message when user is leaving editor but hasn't saved changes [CHAR LIMIT=NONE] -->
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <!-- Dialog button text for the option to discard a user's changes [CHAR LIMIT=20] -->
+    <string name="discard">Discard</string>
+
+    <!-- Dialog button text for the option to keep editing the current pet [CHAR LIMIT=20] -->
+    <string name="keep_editing">Keep Editing</string>
+    <string name="originally">Originally:</string>
+    <string name="after_a_day">After a Day:</string>
+</resources>
